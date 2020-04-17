@@ -88,4 +88,3 @@ function assessment(userName) {
   result = result.replace(/{userName}/g, userName);
   return result;
 }
-
